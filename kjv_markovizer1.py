@@ -2,7 +2,7 @@
 Created on Feb 23, 2016
 
 @author: peisenbaum
-# slack connect?
+# slack connect
 
 This simple module builds its utterance as a Markov chain based on a 
 single starting word from the entire text of the KJV Bible.
